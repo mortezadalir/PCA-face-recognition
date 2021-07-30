@@ -1,0 +1,2 @@
+# Introduction
+#### The purpose of this project is to design a system for recognizing a person's face. the system takes an image and searches in the database to find another image of that person. We have a dataset consists of 400 images of 40 different people. We split the dataset into 2 sets, train set, and test set.  two methods are used in this project, one method works based on simple norm 2 distance to find the right image, and the other method uses a PCA algorithm to work. 
